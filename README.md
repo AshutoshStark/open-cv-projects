@@ -17,6 +17,6 @@ I'm a Computer Sciences sutdent Passionate about AI ☺️☺️
 
 ## Screenshots
 
-
-![App Screenshot]("[https://ibb.co/PDjQXbq](https://i.stack.imgur.com/RgQha.png?s=256)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCKmAZss-T5Y&psig=AOvVaw11qnp4yxo0aUjGPBJ1T6cR&ust=1682954567610000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDTrLv00f4CFQAAAAAdAAAAABAE)](https://i.stack.imgur.com/RgQha.png?s=256)")
-![App Screenshot]("[https://ibb.co/LNrnxpT](https://i.ytimg.com/vi/CKmAZss-T5Y/maxresdefault.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F69783067%2Fhow-can-i-display-hand-without-a-background-in-opencv&psig=AOvVaw3Nms3zMoMhhIcUuP8MRsns&ust=1682954466082000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDyxYb10f4CFQAAAAAdAAAAABAE)")
+![Screenshot 2023-04-30 203433](https://user-images.githubusercontent.com/132209941/235361916-0d8fe5eb-d320-436b-b6bc-7479841f17cf.png)
+![Screenshot 2023-04-30 203548](https://user-images.githubusercontent.com/132209941/235361934-f4acc52b-8413-4ae9-a4c3-8610eebf4026.png)
+![Screenshot 2023-04-30 203607](https://user-images.githubusercontent.com/132209941/235361938-84fae81e-69e5-4efa-973b-75c88d2f16ad.png)
