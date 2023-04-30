@@ -17,6 +17,6 @@ I'm a Computer Sciences sutdent Passionate about AI ☺️☺️
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\91817\OneDrive\Pictures\Screenshots\Screenshot 2023-04-30 203433.png")
-![App Screenshot]("C:\Users\91817\OneDrive\Pictures\Screenshots\Screenshot 2023-04-30 203548.png")
-![App Screenshot]("C:\Users\91817\OneDrive\Pictures\Screenshots\Screenshot 2023-04-30 203607.png")
+![App Screenshot]("https://ibb.co/WPThghW")
+![App Screenshot]("https://ibb.co/PDjQXbq")
+![App Screenshot]("https://ibb.co/LNrnxpT")
