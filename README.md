@@ -17,6 +17,6 @@ I'm a Computer Sciences sutdent Passionate about AI ☺️☺️
 
 ## Screenshots
 
-![LOGO]("https://ibb.co/WPThghW")
-![App Screenshot]("https://ibb.co/PDjQXbq")
-![App Screenshot]("https://ibb.co/LNrnxpT")
+
+![App Screenshot]("[https://ibb.co/PDjQXbq](https://i.stack.imgur.com/RgQha.png?s=256)")
+![App Screenshot]("[https://ibb.co/LNrnxpT](https://i.ytimg.com/vi/CKmAZss-T5Y/maxresdefault.jpg)")
